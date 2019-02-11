@@ -1,0 +1,23 @@
+[
+  {
+    "poolName": "Voidr.net",
+    "url": "https://zeroclassic.voidr.net/",
+    "searchStrings": [
+      "voidr.net"
+    ]
+  },  
+  {
+    "poolName": "Equihub",
+    "url": "https://zeroclassic.equihub.pro/",
+    "searchStrings": [
+      "Equihub"
+    ]
+  },
+  {
+    "poolName": "Equigems",
+    "url": "https://equigems.online/stats",
+    "searchStrings": [
+      "Equigems"
+    ]
+  }
+]
